@@ -41,11 +41,11 @@ TODO
 
 ## Prerequisites
 
-1. Install git - https://git-scm.com/downloads.
-2. Clone this repository.
-3. Install .NET 7.0 - https://dotnet.microsoft.com/download/dotnet/7.0.
-4. Install Visual Studio, Rider or VSCode.
-5. Install docker - https://docs.docker.com/engine/install/.
+1. Install [Git](https://git-scm.com/downloads).
+2. Install [.NET 7.0](https://dotnet.microsoft.com/download/dotnet/7.0).
+3. Install [Visual Studio](https://visualstudio.microsoft.com/downloads/), [Rider](https://www.jetbrains.com/rider/download), or [VS Code](https://code.visualstudio.com/download).
+4. Install [Docker](https://docs.docker.com/engine/install/).
+5. Clone this repository.
 
 ## Running
 
