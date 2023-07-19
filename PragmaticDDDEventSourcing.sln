@@ -9,6 +9,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_solution_items", "_solutio
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercises", "Exercises", "{BDF4F248-C7BE-409F-B42D-EA2AF4F27A31}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aggregates", "Aggregates", "{DDF39BD1-11A9-44CE-8E9C-584F5C5EB9A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlimDownYourAggregates", "Exercises\SlimDownYourAggregates\SlimDownYourAggregates.csproj", "{582782D9-28C8-4C7A-92C2-95BFC9BFF5D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -16,5 +22,15 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DDF39BD1-11A9-44CE-8E9C-584F5C5EB9A5} = {BDF4F248-C7BE-409F-B42D-EA2AF4F27A31}
+		{582782D9-28C8-4C7A-92C2-95BFC9BFF5D7} = {DDF39BD1-11A9-44CE-8E9C-584F5C5EB9A5}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{582782D9-28C8-4C7A-92C2-95BFC9BFF5D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{582782D9-28C8-4C7A-92C2-95BFC9BFF5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{582782D9-28C8-4C7A-92C2-95BFC9BFF5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{582782D9-28C8-4C7A-92C2-95BFC9BFF5D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
