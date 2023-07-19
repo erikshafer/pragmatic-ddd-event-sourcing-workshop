@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_solution_items", "_solutio
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 		README.md = README.md
+		.gitattributes = .gitattributes
+		.editorconfig = .editorconfig
+		Core.Build.props = Core.Build.props
+		Directory.Build.props = Directory.Build.props
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercises", "Exercises", "{BDF4F248-C7BE-409F-B42D-EA2AF4F27A31}"
