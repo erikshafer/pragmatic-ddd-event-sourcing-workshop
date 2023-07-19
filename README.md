@@ -54,3 +54,7 @@ TODO
 ## Contact
 
 TODO
+
+## Miro Board
+
+Link: https://miro.com/app/board/uXjVM0vpicw=/ 
